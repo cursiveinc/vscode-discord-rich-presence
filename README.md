@@ -12,7 +12,7 @@ Discord Rich Presence extension for VSCode by Piotro
 
 ## Description
 
-Shows what you're editing in VSCode with advanced Dicord Rich Presence.
+Shows what you're editing in VSCode with advanced Discord Rich Presence.
 
 ## Features
 * Shows currenty edited file name
